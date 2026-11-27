@@ -24,10 +24,10 @@ on weekends, for free.
 | [Win Metta Platform](https://github.com/winmetta/winmetta-platform) | Bilingual Burmese and English learning site. Astro, Pulumi, AWS. | [Live, beta](https://app.winmetta.org) |
 | [agent-skills](https://github.com/winmetta/agent-skills) | Agent skills that work in Claude Code and Codex from one copy | Available |
 | [bootstrap-dev-env](https://github.com/winmetta/bootstrap-dev-env) | One command to set up a dev machine with mise | Available (macOS) |
+| [shell-explain](https://github.com/ninegene/shell-explain) | Command explanations with examples for the terminal (`explain` CLI) and the web, from one set of Markdown files. Go, Astro. | [Live](https://shell-explain.ninegene.com) |
 
-In development: **shell-explain** (command explanations for the terminal and the web),
-**dev-practice** (practice for junior developers and students), **shell-lab** (Bash lessons
-with real-shell labs).
+In development: **dev-practice** (practice for junior developers and students),
+**shell-lab** (Bash lessons with real-shell labs).
 
 **SEE ALSO**
 Ask a question or say hello in
